@@ -1,0 +1,10 @@
+name: Use Reusable Workflow
+
+on:
+  push:
+
+jobs:
+  call-simple-workflow:
+    uses: Mohdabounasar012/dependabo-reusable/.github/workflows/main.yml@v1.0.0
+    with:
+      message: "Hello from main workflow!"
