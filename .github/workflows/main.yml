@@ -5,6 +5,6 @@ on:
 
 jobs:
   call-simple-workflow:
-    uses: Mohdabounasar012/dependabo-reusable/.github/workflows/main.yml@v1.0.0
+    uses: Mohdabounasar012/dependabo-reusable/.github/workflows/main.yml@main
     with:
       message: "Hello from main workflow!"
