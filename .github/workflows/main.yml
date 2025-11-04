@@ -1,7 +1,7 @@
 name: Use Reusable Workflow
 
 on:
-  push:
+  push:   
 
 jobs:
   call-simple-workflow:
