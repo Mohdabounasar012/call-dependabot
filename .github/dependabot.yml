@@ -8,6 +8,6 @@ updates:
     labels:
       - "dependencies"
       - "github-actions"
-    commit-message:  
+    commit-message:   
       prefix: "chore"
       include: "scope"
