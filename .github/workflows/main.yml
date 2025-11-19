@@ -9,6 +9,6 @@ on:
 
 jobs:
   call-reusable-workflow:
-    uses: Mohdabounasar012/dependabo-reusable/.github/workflows/main.yml@v1.0.3
+    uses: Mohdabounasar012/dependabo-reusable/.github/workflows/main.yml@v1.0.4
     with:
       message: "Hello from the caller workflow!"
